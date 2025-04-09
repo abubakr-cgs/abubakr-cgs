@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakr-cgs" alt="abubakr-cgs" /></a> </p>
 
-- 🔭 I’m currently working on [OBSLogs](logfire.ai)
+- 🔭 I’m currently working on [OBSLogs](https://obslogs.in)
 
-- 🌱 I’m currently learning **Node, Rust, Golang, Kafka, Redis**
+- 🌱 I’m currently learning **Node, Rust, Golang, Kafka, Redis and LUA scripting**
 
-- 💬 Ask me about **javascript, python, clickhouse db and redux**
+- 💬 Ask me about **Javascript, Python, Clickhouse DB, Redux and [VRL](https://vector.dev/docs/reference/vrl/)**
 
 - 📫 How to reach me **abubakr@constient.com**
 
