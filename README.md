@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OBSLogs](https://obslogs.in) and [Assist24](http://restaurant.assist24.ai/)
 
-- 🌱 I’m currently learning **React, Node, Rust, Golang, Kafka, Redis and LUA scripting**
+- 🌱 I’m currently learning and working with **React, Vite, Node, Rust, Golang, Kafka, Redis and LUA scripting**
 
 - 💬 Ask me about **Javascript, Python, Clickhouse DB, Redux and [VRL](https://vector.dev/docs/reference/vrl/)**
 
