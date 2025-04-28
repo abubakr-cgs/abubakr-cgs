@@ -5,17 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakr-cgs" alt="abubakr-cgs" /></a> </p>
 
-- 🔭 I’m currently working on [OBSLogs](https://obslogs.in)
+- 🔭 I’m currently working on [OBSLogs](https://obslogs.in) and [Assist24](http://restaurant.assist24.ai/)
 
-- 🌱 I’m currently learning **Node, Rust, Golang, Kafka, Redis and LUA scripting**
+- 🌱 I’m currently learning **React, Node, Rust, Golang, Kafka, Redis and LUA scripting**
 
 - 💬 Ask me about **Javascript, Python, Clickhouse DB, Redux and [VRL](https://vector.dev/docs/reference/vrl/)**
 
-- 📫 How to reach me **abubakr@constient.com**
+- 📫 Reach me @ **abubakr@constient.com**
 
-- ⚡ Fun fact **I am invested in Stable Diffusion and LLMs**
+- ⚡ Fun fact! **I am invested in Stable Diffusion and LLMs**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
