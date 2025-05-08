@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakr-cgs" alt="abubakr-cgs" /></a> </p>
 
-- 🔭 I’m currently working on [OBSLogs](https://obslogs.in) and [Assist24](http://restaurant.assist24.ai/)
+- 🔭 I’m currently working on [OBSLogs](https://obslogs.in), [Assist24](http://restaurant.assist24.ai/) and FinTag.
 
 - 🌱 I’m currently learning and working with **React, Vite, Node, Rust, Golang, Kafka, Redis and LUA scripting**
 
